@@ -1,0 +1,23 @@
+{
+    "name": "redsuns/geolocation",
+    "description": "Um componente básico para geolocalização",
+    "type": "library",
+    "version": "0.1",
+    "authors": [
+        {
+            "name": "Redsuns Tecnologia e Design",
+            "email": "contato@redsuns.com.br",
+            "role": "maintainer"
+        },
+        {
+            "name": "Andre Cardoso aka andrebian",
+            "email": "andrecardosodev@gmail.com",
+            "role": "contributor"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Redsuns\\Gelocation\\": "src/Redsuns/Geolocation"
+        }
+    }
+}
